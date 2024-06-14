@@ -10,3 +10,6 @@ Esta es una pequeña pagina web estilo blog con un poco deinformacion sobre el a
 + 📙 **HTML** : Usado para la estructura de la pagina web
 + 📘 **CSS** : Usado para dar diseño y efectos a los elementpos de la pagina
 + 📒 **JS** : Usado para crear un carrusel de imagenes 
+
+## [Vista Previa](https://nanapagina-xail-s-projects.vercel.app/) 
+
